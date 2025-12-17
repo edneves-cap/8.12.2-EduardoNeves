@@ -1,0 +1,16 @@
+{
+  "correlation_id": "1765983657398-4922",
+  "command": "set_controls",
+  "accepted": true,
+  "message": "OK",
+  "ts_end": "2025-12-17T15:00:59.522982Z",
+  "result": {
+    "running": false,
+    "status": "stopped",
+    "mode": "sport",
+    "throttle": 0.0,
+    "steering": 0.0,
+    "lights": "off",
+    "firmware": "1.0.0"
+  }
+}
